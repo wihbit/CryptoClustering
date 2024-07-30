@@ -12,4 +12,5 @@
     - PCA combines the original variables into a smaller number of variables
     - PCA reduces the number of variables while retaining as much variability as possible
     - PCA1 captures the largest possible variance in the data, PCA2 captures the second largest variance, etc.
-- Uses KMeans clustering again on the PCA-transformed data
+- Uses KMeans clustering again on the PCA-transformed data  
+- Examines the weight of each feature in each component
